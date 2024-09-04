@@ -11,6 +11,8 @@ many thanks to
 - mr.doob for three.js and its associated libraries (e.g. TrackballControls, GLTFLoader) and all the people who have contributed to them
 - Stefan Hedman for cannon.js
 - Ronen Ness for partykals.js
+- Jerome Etienne for threex.keyboardstate.js
+- jbouny et al. for the water shader
 - all the people who posted questions of StackOverflow + elsewhere and the authors of various blog posts that I referred to to make these things
     
 ## notes:
